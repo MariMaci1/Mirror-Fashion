@@ -28,3 +28,21 @@ figcaption{
     font-style: italic;
     margin:10px;
 }
+#centro-distribuição{
+    margin:auto;
+    width:550px;
+}
+#familia-pelho{
+    margin: 0 0 10px 10px;
+    float: right;
+}
+#rodapé{
+    color: #656060;
+    margin: 30px 0;
+    padding:30px 0;
+}
+#rodapé img{
+    margin:0 30px;
+    vertical-align: middle;
+    width: 94px;
+}
