@@ -4,8 +4,7 @@
 
 <h3>🚀 Tecnologias Utilizadas</h3> 
 <p>
-* HTML5: Utilização de tags semânticas (`<header>`, `<nav>`, `<main>`, `<article>`, `<footer>`) para<br> 
-melhoria de acessibilidade e SEO.<br>
+* HTML5: Utilização de tags semânticas para melhoria de acessibilidade e SEO.<br>
 * CSS3: Layouts modernos utilizando técnicas de posicionamento, estilização de componentes, tipografia e<br> transições suaves.<br>
 * Boas Práticas:Organização de arquivos, nomenclatura de classes legível e foco na fidelidade do layout proposto.
 </p>
