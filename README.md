@@ -1,4 +1,4 @@
-<h1>Mirror Fashio</h1>
+<h1>Mirror Fashion</h1>
 
 <p>
   É um site de moda que estou criando usando como base os aprendizados do livro: "Desenvolvimento Web com HTML,
